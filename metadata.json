@@ -45,16 +45,16 @@
 		]
 	],
 	"properties": {
-"category": "audio",
-"files": [
-{
-"uri": "https://pbs.twimg.com/media/F3DRtPUb0AEPJRi?format=jpg&name=large",
-"type": "image/jpeg"
-},
-{
-"uri": "https://storage.googleapis.com/sw-test-2023/sounds%2F2024-02-23T16%3A05%3A29.964Z_MeikoNakahara-Fantasy.mp3",
-"type": "audio/mpeg"
-}
-]
-}
+		"category": "audio",
+		"files": [
+			{
+				"uri": "https://pbs.twimg.com/media/F3DRtPUb0AEPJRi?format=jpg&name=large",
+				"type": "image/jpeg"
+			},
+			{
+				"uri": "https://storage.googleapis.com/sw-test-2023/sounds%2F2024-02-23T16%3A05%3A29.964Z_MeikoNakahara-Fantasy.mp3",
+				"type": "audio/mpeg"
+			}
+		]
+	}
 }
